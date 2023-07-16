@@ -1,0 +1,2 @@
+# VIN
+Vhodno-izhodne naprave
